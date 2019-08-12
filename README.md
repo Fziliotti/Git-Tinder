@@ -1,4 +1,4 @@
-## Git Tinder
+## Git Tinder - in development
 
 I had created this project to test some features present in PWA's implementations using the recent frameworks/libs like React (create-react-app), Svelte (using Sapper), and more.
 
@@ -22,3 +22,9 @@ Some things you go see is:
 - Some features of the Ecmascript6+ specifications
 - CSS3 (some items like grid, flexbox and navbar decoration =))
 
+Towards the restful api concept:
+ - [ ] HATEOAS
+ - [ ] Uses stateless interactions
+ - [ ] Communicates over HTTP 
+ - [ ] Uses standard HTTP status codes
+ - [ ] Manipulates resources 
